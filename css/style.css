@@ -1,0 +1,42 @@
+h1{
+    color:blueviolet;
+    font: bold;
+}
+h1+p{
+    color:lawngreen;
+    font-size: 200%;
+}
+
+/* unvisited link */
+a:link{
+    color: rgb(231, 53, 121);
+  }
+  
+  /* visited link */
+a:visited{
+    color: green;
+  }
+  
+  /* mouse over link */
+a:hover{
+    color: red;
+  }
+  
+  /* selected link */
+a:active{
+    color: yellow;
+  }
+ .manythings {
+    color:hotpink;
+    font-weight: bold;
+ } 
+ p {
+    color: red;
+  }
+  
+  p {
+    color: blue;
+  }
+  p.manythings{
+      color:lightseagreen;
+  }
